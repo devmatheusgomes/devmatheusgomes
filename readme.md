@@ -3,7 +3,7 @@
 
 :computer: I'm Python student!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Goias - Brazil.
 
 :books: I’m currently learning Python.
 
