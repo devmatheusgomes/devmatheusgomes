@@ -15,7 +15,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MatheusGomes-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="MatheusGomes-PowerBi" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg">
+  <img align="center" alt="MatheusGomes-PowerBi" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg">
+  <img align="center" alt="MatheusGomes-Apple" height="30" width="40" src="https://www.svgrepo.com/show/69341/apple-logo.svg">
+  <img align="center" alt="MatheusGomes-Windows" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg">
 </div>
 
 ##
