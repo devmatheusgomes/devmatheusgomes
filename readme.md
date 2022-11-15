@@ -5,7 +5,7 @@
 
 :house_with_garden: I’m from Goias - Brazil.
 
-:books: I’m currently learning Python and Microsoft PowerBI.
+:books: I’m currently learning PowerBI.
 
 
  <div>
